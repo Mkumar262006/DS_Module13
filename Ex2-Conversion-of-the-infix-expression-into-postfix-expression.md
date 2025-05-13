@@ -4,7 +4,7 @@
 To write a C program to convert the infix expression into postfix form using stack by following the operator precedence and associative rule.
 
 ## Algorithm
-    1. Start the program.
+<br>1. Start the program.
 <br>2.Initialize a stack and set the top index to -1.
 <br>3.Define the push() and pop() functions to add and remove elements from the stack.
 <br>4.Define the priority() function to assign priorities to operators.
