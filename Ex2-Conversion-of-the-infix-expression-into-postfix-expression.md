@@ -13,7 +13,7 @@ To write a C program to convert the infix expression into postfix form using sta
 7.End.
   
 ## Program:
-```
+```py
 /*
 Program to convert the infix expression into postfix expression
 Developed by:  MANOJ KUMAR S
