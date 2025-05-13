@@ -4,12 +4,12 @@
 To write a C program to find and display the priority of the operator in the given Postfix expression
 
 ## Algorithm
-1. Start the program.
-2.Define the priority() function to return the priority of operators.
-3.Initialize the string containing operators and operands.
-4.Loop through each character in the string.
-5.For each operator, call the priority() function to determine its priority.
-6.Print the operator and its corresponding priority level.   
+<br>1. Start the program.
+<br>2.Define the priority() function to return the priority of operators.
+<br>3.Initialize the string containing operators and operands.
+<br>4.Loop through each character in the string.
+<br>5.For each operator, call the priority() function to determine its priority.
+<br>6.Print the operator and its corresponding priority level.   
 
 ## Program:
 ```py
