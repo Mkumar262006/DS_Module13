@@ -4,10 +4,10 @@
 To write a C function to perform push and pop operation of the stack in the infix to postfix conversion.
 
 ## Algorithm
-1. Initialize top as -1 and declare stack as a character array.
-2. To push, increment top and assign the character to stack[top].
-3. To pop, check if top is -1 and return -1 if true.
-4. If not, return stack[top] and decrement top.
+<br>1. Initialize top as -1 and declare stack as a character array.
+<br>2. To push, increment top and assign the character to stack[top].
+<br>3. To pop, check if top is -1 and return -1 if true.
+<br>4. If not, return stack[top] and decrement top.
 
 ## Program:
 ```
