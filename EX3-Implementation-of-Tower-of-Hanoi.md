@@ -14,7 +14,7 @@ To write a C program to implement Tower of Hanoi
 7.End
  
 ## Program:
-```
+```py
 /*
 Program to implement Tower of Hanoi
 Developed by:  MANOJ KUMAR S
